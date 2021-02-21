@@ -1,0 +1,261 @@
+﻿응답 수,강의에 대한 전반적 만족도는? Please rate the overall satisfaction with this course.,대학 진학 전 프로그래밍 관련 교육 경험 수준은? Please rate your learning experience on computer programming before college.,강의의 난이도는? Please rate the overall difficulty of the Course.,숙제/퀴즈의 분량은? Please rate the amount of homework and quiz.,숙제의 난이도는? Please rate the difficulty of homework and quiz.,이 강좌 수강으로 컴퓨터 전공에 대한 관심 또는 흥미에 변화가 있는가? Does this course affect your interest in computer majors?,"새로 도입한 Cloud 기반 프로그래밍 학습 환경인 Goorm EDU에 대한 전반적 만족도는 ? Please rate the overall satisfaction on the Goorm EDU, a cloud based programming education system adopted this year by our department. ",구름 EDU 기반 숙제/LAB의 장점이라고 생각하는 것을 모두 고르시오. Choose everything you think is the advantage of Goorm EDU based HW/Lab,구름 EDU 기반 숙제/LAB의 단점이라고 생각하는 것을 모두 고르시오. Choose everything you think is the disadvantage of Goorm EDU based HW/Lab,"제한된 학부 재원을 고려할 때 ""PC/서버""와 ""클라우드 시스템"" 중 어디에 더 많은 재원을 투입하여야 한다고 생각하는가?  GIven the limited department budget, which do you think should we put more money into, between ""PC/Server"" and ""Cloud System"" ?",강의 개선을 위한 제안. Please write any suggestion that would improve this course.
+1,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+2,"(3) 보통,중립, Neutral",(1). 전혀 없음. None,"(1) 아주 어려움, Very difficult","(4) 약간 많음, A lot","(1) 아주 어려움, Very difficult","(3) 중립, 별 영향 없음, Neutral","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A
+(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+3,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",
+4,"(2) 약간 불만족, Somewhat dissatisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(5) 아주 많음, Too much","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","c. 보통, 중립, Neutral","(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+5,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring",,"(2) 중립, 의견 없음, Neutral or No Idea","Lap 과,hw가 끝나도 막혀 버리는데 다시 연습할수 있으면 좋을것 같습니다"
+6,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+7,"(4) 약간 만족, Somewhat Satisfied",(4). 약간 많음.  More experience than average,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","c. 보통, 중립, Neutral","(2) 빠른 시스템 동작,  The system works fast","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+8,"(5) 아주 만족, Very Satisfied",(4). 약간 많음.  More experience than average,"(4) 약간 쉬움, Somewhat easy","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring",,(3) Cloud System,
+9,"(5) 아주 만족, Very Satisfied",(5). 아주 많음.  A lot of experience,"(4) 약간 쉬움, Somewhat easy","(3) 적절함, 보통, Moderate amount","(4) 약간 쉬움, Somewhat easy","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,X
+10,"(3) 보통,중립, Neutral",(2). 매우 적지만 있음. Very little (Below average) experience,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(1) 아주 어려움, Very difficult","(2) 관심 또는 흥미가 줄어듦, Somewhat decreased","b. 약간 만족, Somewhat Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+11,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,
+12,"(5) 아주 만족, Very Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","d. 약간 불만족, Somewhat dissatisfied","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",
+13,"(3) 보통,중립, Neutral",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",
+14,"(4) 약간 만족, Somewhat Satisfied",(4). 약간 많음.  More experience than average,"(4) 약간 쉬움, Somewhat easy","(3) 적절함, 보통, Moderate amount","(4) 약간 쉬움, Somewhat easy","(3) 중립, 별 영향 없음, Neutral","d. 약간 불만족, Somewhat dissatisfied","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(2) 느린 시스템 동작, The system works slow
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(1) PC-Server,
+15,"(3) 보통,중립, Neutral",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","c. 보통, 중립, Neutral","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring",(3) Cloud System,감사합니다.
+16,"(4) 약간 만족, Somewhat Satisfied",(4). 약간 많음.  More experience than average,"(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(3) 중립, 별 영향 없음, Neutral","c. 보통, 중립, Neutral","(1) 사용이 쉽다, Easy to use","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A
+(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(1) PC-Server,
+17,"(4) 약간 만족, Somewhat Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","c. 보통, 중립, Neutral","(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,
+18,"(4) 약간 만족, Somewhat Satisfied","(3). 보통, 중립.  Neutral, Average.","(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","d. 약간 불만족, Somewhat dissatisfied","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",학생의 자유도를 조금 높여주셨으면 좋겠습니다. 너무 정해진 답을 프로그래밍 하는 것이 아니라 좀 더 다양한 방법으로 창의적인 정답을 학생들이 찾으면서 프로그래밍의 재미와 흥미를 키우고 창의성을 높였으면 좋겠습니다.
+19,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",
+20,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring",,"(2) 중립, 의견 없음, Neutral or No Idea",
+21,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content",,(3) Cloud System,
+22,"(5) 아주 만족, Very Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(3) 보통,중립, Neutral","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(2) 느린 시스템 동작, The system works slow",(3) Cloud System,너무 좋은 강의였습니다
+23,"(4) 약간 만족, Somewhat Satisfied","(3). 보통, 중립.  Neutral, Average.","(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","c. 보통, 중립, Neutral","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A
+(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+24,"(5) 아주 만족, Very Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring",,"(2) 중립, 의견 없음, Neutral or No Idea",
+25,"(4) 약간 만족, Somewhat Satisfied","(3). 보통, 중립.  Neutral, Average.","(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",
+26,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",
+27,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(2) 관심 또는 흥미가 줄어듦, Somewhat decreased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A
+(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,"비대면이라 그런것인지는 모르겠으나, 수업이 이해가안되서 숙제를 못할때 방법이없었다... 숙제가 평가점수에 들어가서 알려줄 수 없다면 숙제제출기한 이후에 바로 풀이를 공개해주면 좀더 좋을 것 같다."
+28,"(5) 아주 만족, Very Satisfied",(5). 아주 많음.  A lot of experience,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content",,"(2) 중립, 의견 없음, Neutral or No Idea",
+29,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","e. 매우 불만족, Very Dissatisfied","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(2) 느린 시스템 동작, The system works slow","(2) 중립, 의견 없음, Neutral or No Idea",
+30,"(5) 아주 만족, Very Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A","(2) 중립, 의견 없음, Neutral or No Idea",
+31,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,
+32,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(2) 느린 시스템 동작, The system works slow","(2) 중립, 의견 없음, Neutral or No Idea","강의에 충분히 만족하기 때문에
+특별히 제안할 것은 없습니다."
+33,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast","(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,
+34,"(4) 약간 만족, Somewhat Satisfied",(4). 약간 많음.  More experience than average,"(5) 아주 쉬움, Very Easy","(5) 아주 많음, Too much","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","e. 매우 불만족, Very Dissatisfied","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(2) 느린 시스템 동작, The system works slow
+(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,"채점 시스템이 보다 개선되었으면 합니다.
+(소스코드를 복사해서 실시간 강의 중 붙여넣어 직접 검사를 받는 시스템이 아닌 코드를 제출하면 그것을 강의자가 시스템 차원으로 확인할 수 있도록 하는 시스템을 원함)"
+35,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(5) 아주 많음, Too much","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","c. 보통, 중립, Neutral","(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(1) PC-Server,
+36,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","d. 약간 불만족, Somewhat dissatisfied","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A","(2) 중립, 의견 없음, Neutral or No Idea","hw,lab에 대한 피드백이 있었으면 좋겠다"
+37,"(3) 보통,중립, Neutral",(1). 전혀 없음. None,"(1) 아주 어려움, Very difficult","(4) 약간 많음, A lot","(1) 아주 어려움, Very difficult","(3) 중립, 별 영향 없음, Neutral","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+38,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(1) 아주 어려움, Very difficult","(2) 관심 또는 흥미가 줄어듦, Somewhat decreased","b. 약간 만족, Somewhat Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A","(2) 중립, 의견 없음, Neutral or No Idea",
+39,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(2) 관심 또는 흥미가 줄어듦, Somewhat decreased","c. 보통, 중립, Neutral","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A","(2) 중립, 의견 없음, Neutral or No Idea",
+40,"(4) 약간 만족, Somewhat Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(4) 약간 쉬움, Somewhat easy","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A","(2) 중립, 의견 없음, Neutral or No Idea",
+41,"(5) 아주 만족, Very Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A
+(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+42,"(5) 아주 만족, Very Satisfied",(5). 아주 많음.  A lot of experience,"(4) 약간 쉬움, Somewhat easy","(3) 적절함, 보통, Moderate amount","(4) 약간 쉬움, Somewhat easy","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(4) 자동 채점의 부정확성, Inaccurate automatic scoring",(3) Cloud System,오류 혹은 버그가 빠르게 수정이 됐으면 좋겠습니다. 그것 빼고는 전부 만족스러운 강의였습니다.
+43,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",매 Hw와 lab이 끝나면 바로 답을 올려주거나 어려운 문제에 한해서 풀이하는 시간을 가졌으면 합니다. 제가 프로그래밍 한 것보다 짧고 효율적이었던 것이 많았어서 공부할 때 많은 도움이 되었는데 보통 시험 한 주 전에 제공되다보니 이해하고 학습할 수 있는 시간이 너무 짧아서 아쉬웠습니다.
+44,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(1) 아주 어려움, Very difficult","(5) 아주 많음, Too much","(1) 아주 어려움, Very difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring",,"(2) 중립, 의견 없음, Neutral or No Idea",
+45,"(5) 아주 만족, Very Satisfied",(4). 약간 많음.  More experience than average,"(4) 약간 쉬움, Somewhat easy","(1) 아주 적음, Too Little","(4) 약간 쉬움, Somewhat easy","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(1) 사용이 어렵다, Difficult to use.",(3) Cloud System,
+46,"(3) 보통,중립, Neutral",(1). 전혀 없음. None,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(1) 아주 어려움, Very difficult","(2) 관심 또는 흥미가 줄어듦, Somewhat decreased","d. 약간 불만족, Somewhat dissatisfied","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A",(3) Cloud System,
+47,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(2) 느린 시스템 동작, The system works slow",(3) Cloud System,
+48,"(3) 보통,중립, Neutral",(1). 전혀 없음. None,"(1) 아주 어려움, Very difficult","(4) 약간 많음, A lot","(1) 아주 어려움, Very difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A",(3) Cloud System,이론만으로는 과제를 해결하기 버거운 경우 종종 있었습니다. 비대면 수업이어서 후반으로 갈수록 어려운 내용에 대해 직접 질문하지 못하는 것이 아쉬웠습니다.
+49,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,
+50,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,제출 횟수 제한을 두는 것도 좋을 것 같습니다.
+51,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring",,"(2) 중립, 의견 없음, Neutral or No Idea",
+52,"(4) 약간 만족, Somewhat Satisfied","(3). 보통, 중립.  Neutral, Average.","(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(1) PC-Server,
+53,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring",(3) Cloud System,강의에서 배우는 내용보다 어려운 과제들이 많아서 난도를 찬찬히 올려갔으면 좋겠습니다. 강의는 기초부터 하나씩 가르쳐 주셔서 좋았습니다.
+54,"(5) 아주 만족, Very Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(2) 관심 또는 흥미가 줄어듦, Somewhat decreased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",구름채점 중 통과하지 못한 케이스가 뭔지 몰라서 수정 방향을 잡기 힘듭니다. 통과하지 못한 케이스를 자세히 알려주면 좋을거 같습니다.
+55,"(5) 아주 만족, Very Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(4) 자동 채점의 부정확성, Inaccurate automatic scoring",(3) Cloud System,
+56,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",
+57,"(5) 아주 만족, Very Satisfied",(5). 아주 많음.  A lot of experience,"(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+58,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","c. 보통, 중립, Neutral","(1) 사용이 쉽다, Easy to use","(2) 느린 시스템 동작, The system works slow","(2) 중립, 의견 없음, Neutral or No Idea",
+59,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A","(2) 중립, 의견 없음, Neutral or No Idea",없음
+60,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+61,"(3) 보통,중립, Neutral",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(1) 아주 어려움, Very difficult","(3) 중립, 별 영향 없음, Neutral","e. 매우 불만족, Very Dissatisfied",,"(1) 사용이 어렵다, Difficult to use.
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,한 학기동안 가르쳐주셔서 감사합니다. 다만 수업에서 조금 아쉬운 부분이 있다면 구름 edu의 lab이나 hw의 정답을 바로바로 볼수있으면 좋을거 같습니다.  내용이 너무 어려워 못푸는 문제의 정답을 알고싶습니다. 후에 프로그래밍 실력 향상에 도움이 될거같네요. 한 학기 동안 가르켜주셔서 감사합니다.
+62,"(4) 약간 만족, Somewhat Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,
+63,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A","(2) 중립, 의견 없음, Neutral or No Idea",마지막부분에서 강의가 갑자기 어려워져 따라가기 조금 힘들었습니다ㅠ
+64,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","b. 약간 만족, Somewhat Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A","(2) 중립, 의견 없음, Neutral or No Idea",
+65,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(2) 느린 시스템 동작, The system works slow",(1) PC-Server,
+66,"(4) 약간 만족, Somewhat Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(1) 아주 어려움, Very difficult","(4) 약간 많음, A lot","(1) 아주 어려움, Very difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(2) 느린 시스템 동작, The system works slow","(2) 중립, 의견 없음, Neutral or No Idea",
+67,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(3) 보통,중립, Neutral","(3) 중립, 별 영향 없음, Neutral","b. 약간 만족, Somewhat Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+68,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(1) 아주 어려움, Very difficult","(5) 아주 많음, Too much","(1) 아주 어려움, Very difficult","(3) 중립, 별 영향 없음, Neutral","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+69,"(4) 약간 만족, Somewhat Satisfied",(4). 약간 많음.  More experience than average,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+70,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","b. 약간 만족, Somewhat Satisfied.","(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring",,(1) PC-Server,
+71,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring",(1) PC-Server,
+72,"(4) 약간 만족, Somewhat Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+73,"(3) 보통,중립, Neutral",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(1) 아주 어려움, Very difficult","(2) 관심 또는 흥미가 줄어듦, Somewhat decreased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A
+(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(1) PC-Server,"컴퓨터 프로그래밍을 비대면으로 배우니까 질문이 어려울 뿐더러 배우기 너무 어려웠고, 학기동안 뭘 배웠는지 잘  와닿지 않는다."
+74,"(4) 약간 만족, Somewhat Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+75,"(4) 약간 만족, Somewhat Satisfied","(3). 보통, 중립.  Neutral, Average.","(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","b. 약간 만족, Somewhat Satisfied.","(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A","(2) 중립, 의견 없음, Neutral or No Idea",
+76,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(5) 아주 많음, Too much","(1) 아주 어려움, Very difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","d. 약간 불만족, Somewhat dissatisfied",,,"(2) 중립, 의견 없음, Neutral or No Idea",
+77,"(4) 약간 만족, Somewhat Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring",,"(2) 중립, 의견 없음, Neutral or No Idea",
+78,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(1) 아주 어려움, Very difficult","(5) 아주 많음, Too much","(1) 아주 어려움, Very difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","e. 매우 불만족, Very Dissatisfied","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(1) 사용이 어렵다, Difficult to use.
+(2) 느린 시스템 동작, The system works slow
+(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A
+(4) 자동 채점의 부정확성, Inaccurate automatic scoring",(1) PC-Server,집에 컴퓨터가 없는데 매일 과제하러 PC방에 갑니다. 코로나때문에 가족들이 많이 걱정하는데 컴퓨터 지원 안되나요?
+79,"(5) 아주 만족, Very Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",한학기동안 수고많으셨습니다.
+80,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","b. 약간 만족, Somewhat Satisfied.","(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(2) 느린 시스템 동작, The system works slow",(3) Cloud System,
+81,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+82,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(3) 중립, 별 영향 없음, Neutral","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A
+(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+83,"(5) 아주 만족, Very Satisfied",(4). 약간 많음.  More experience than average,"(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(2) 느린 시스템 동작, The system works slow",(3) Cloud System,
+84,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A",(3) Cloud System,
+85,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+86,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+87,"(4) 약간 만족, Somewhat Satisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(1) 아주 어려움, Very difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring",,(3) Cloud System,
+88,"(4) 약간 만족, Somewhat Satisfied","(3). 보통, 중립.  Neutral, Average.","(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(1) PC-Server,
+89,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A","(2) 중립, 의견 없음, Neutral or No Idea","Because of online lessons, it’s became more difficult to learn and understand. Also, it’s really uncomfortable that after submitting hw or lab we can’t see tasks, we can see just our codes that we submitted. It’s really difficult."
+90,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring",,(3) Cloud System,
+91,"(3) 보통,중립, Neutral",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(2) 약간 적음, A little","(3) 보통,중립, Neutral","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","b. 약간 만족, Somewhat Satisfied.","(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,No suggestion.
+92,"(5) 아주 만족, Very Satisfied",(5). 아주 많음.  A lot of experience,"(5) 아주 쉬움, Very Easy","(5) 아주 많음, Too much","(5) 아주 쉬움, Very Easy","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+93,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(2) 관심 또는 흥미가 줄어듦, Somewhat decreased","b. 약간 만족, Somewhat Satisfied.","(1) 사용이 쉽다, Easy to use","(3) 강사/조교와의 소통이 어려움, Difficult to interact with Professor and T.A",(1) PC-Server,
+94,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring",,(3) Cloud System,"퀴즈-숙제 제출요일이, 그 주에 실습이 있는지의 여부에 따라 변하는 것이 강의 초반에는 적응하기 어려웠습니다. 학생들이 숙제와 퀴즈를 풀 시간을 충분히 안배하도록 하기 위함이겠지만, 제출기한이 고정되어있지 않다보니 숙제를 기억하는데는 개인적으론 단점으로 작용하더군요. 그것 빼고는 많은 점이 좋았습니다. 원어분반이었지만 교수님이 직관적인 영어 표현을 주로 사용해주셔서 이해가 쉬웠습니다. 그리고 구름시스템도 제가 작성한 것이 제출조건에 맞는지를 쉽게 확인할 수가 있어서 정말 편했습니다(가독성도 좋고 편리했습니다)."
+95,"(3) 보통,중립, Neutral",(4). 약간 많음.  More experience than average,"(2) 약간 어려움, Somewhat difficult","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","a. 아주 만족, Very Satisfied.","(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring","(2) 중립, 의견 없음, Neutral or No Idea",
+96,"(2) 약간 불만족, Somewhat dissatisfied",(2). 매우 적지만 있음. Very little (Below average) experience,"(3) 보통,중립, Neutral","(4) 약간 많음, A lot","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","e. 매우 불만족, Very Dissatisfied","(1) 사용이 쉽다, Easy to use","(2) 느린 시스템 동작, The system works slow
+(4) 자동 채점의 부정확성, Inaccurate automatic scoring",(3) Cloud System,
+97,"(5) 아주 만족, Very Satisfied","(3). 보통, 중립.  Neutral, Average.","(3) 보통,중립, Neutral","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(5) 관심 또는 흥미가 크게 증가함, Increased Greatly","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea","File I/O Basics 부분과 Command Line Arguments 부분을 이해하는데 어려움이 조금 있었습니다.
+강의 차수가 제한적이라서 쫌 더 많이 다루어 주시지 못 해주시건 같은데,  만약에 예제나 문제 등을 쫌더 주셨으면, 두 파트를 더 잘 이해할 수 있었을 거 같습니다.
+한 학기동안 C언어에 대해서 정말 많이 잘 배웠습니다. 교수님 감사합니다.!!"
+98,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","c. 보통, 중립, Neutral","(3) 강사/조교와의 쉬운 소통, Easy to interact with Professor and T.A
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring
+(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",조교와의 소통을 통해 해결되기는 했지만 숙제/LAB 중 채점데이터가 잘못된 경우가 다수 있었다. 이 점이 개선되었으면 한다.
+99,"(5) 아주 만족, Very Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(2) 약간 어려움, Somewhat difficult","(3) 중립, 별 영향 없음, Neutral","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast
+(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.",(3) Cloud System,
+100,"(4) 약간 만족, Somewhat Satisfied",(4). 약간 많음.  More experience than average,"(4) 약간 쉬움, Somewhat easy","(3) 적절함, 보통, Moderate amount","(3) 보통,중립, Neutral","(3) 중립, 별 영향 없음, Neutral","a. 아주 만족, Very Satisfied.","(1) 사용이 쉽다, Easy to use
+(2) 빠른 시스템 동작,  The system works fast","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",More examples of solved problems. Publishing answers of the homeworks and labs would be helpful.
+101,"(4) 약간 만족, Somewhat Satisfied",(1). 전혀 없음. None,"(2) 약간 어려움, Somewhat difficult","(3) 적절함, 보통, Moderate amount","(1) 아주 어려움, Very difficult","(3) 중립, 별 영향 없음, Neutral","b. 약간 만족, Somewhat Satisfied.","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring
+(5) 풍부한 프로그래밍 학습 콘텐츠, Rich programming learning content","(5) 프로그래밍 지원 도구의 부족, Lack of programming support tools.","(2) 중립, 의견 없음, Neutral or No Idea",HW의 난이도가 초반부 문제와 후반부 문제의 차이가 많이 난다고 생각한다.
+102,"(2) 약간 불만족, Somewhat dissatisfied","(3). 보통, 중립.  Neutral, Average.","(2) 약간 어려움, Somewhat difficult","(5) 아주 많음, Too much","(1) 아주 어려움, Very difficult","(4) 관심 또는 흥미가 조금 증가함, Somewhat increased","c. 보통, 중립, Neutral","(4) 자동 채점을 통한 빠른 평가 결과 확인,  Immediate feedback with auto-scoring","(4) 자동 채점의 부정확성, Inaccurate automatic scoring",(1) PC-Server,자신의 코드의 문제점 파악 불가능.
